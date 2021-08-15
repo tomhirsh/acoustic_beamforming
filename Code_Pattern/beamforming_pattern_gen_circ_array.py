@@ -2,7 +2,7 @@
 of a circular phased array.
 
 Author: Tom Hirshberg
-"""
+""" 
 
 import numpy as np
 import matplotlib.pyplot as plt
